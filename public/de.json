@@ -1,0 +1,2021 @@
+{
+  "answers": [],
+  "items": [
+    {
+      "key": "Wurst",
+      "art": "die",
+      "plural": "Würste",
+      "trans": "sausage"
+    },
+    {
+      "key": "Würstchen",
+      "art": "das",
+      "plural": "Würstchen",
+      "trans": "sausage"
+    },
+    {
+      "key": "Brot",
+      "art": "das",
+      "plural": "Brote",
+      "trans": "bread"
+    },
+    {
+      "key": "Butter",
+      "art": "die",
+      "plural": "Butter",
+      "trans": "butter"
+    },
+    {
+      "key": "Brötchen",
+      "art": "das",
+      "plural": "Brötchen",
+      "trans": "bread roll"
+    },
+    {
+      "key": "Café",
+      "art": "das",
+      "plural": "Cafés",
+      "trans": "café"
+    },
+    {
+      "key": "Currysoße",
+      "art": "die",
+      "plural": "Currysoßen",
+      "trans": "curry sauce"
+    },
+    {
+      "key": "Durst",
+      "art": "der",
+      "plural": "—",
+      "trans": "thirst"
+    },
+    {
+      "key": "Ei",
+      "art": "das",
+      "plural": "Eier",
+      "trans": "egg"
+    },
+    {
+      "key": "Eis",
+      "art": "das",
+      "plural": "Eissorten",
+      "trans": "ice"
+    },
+    {
+      "key": "Erdbeere",
+      "art": "die",
+      "plural": "Erdbeeren",
+      "trans": "strawberry"
+    },
+    {
+      "key": "Essig",
+      "art": "der",
+      "plural": "Essige",
+      "trans": "vinegar"
+    },
+    {
+      "key": "Fisch",
+      "art": "der",
+      "plural": "Fische",
+      "trans": "fish"
+    },
+    {
+      "key": "Gabel",
+      "art": "die",
+      "plural": "Gabeln",
+      "trans": "fork"
+    },
+    {
+      "key": "Getränk",
+      "art": "das",
+      "plural": "Getränke",
+      "trans": "drink"
+    },
+    {
+      "key": "Glas",
+      "art": "das",
+      "plural": "Gläser",
+      "trans": "glass"
+    },
+    {
+      "key": "Hähnchen",
+      "art": "das",
+      "plural": "Hähnchen",
+      "trans": "chicken"
+    },
+    {
+      "key": "Kellner",
+      "art": "der",
+      "plural": "Kellner",
+      "trans": "waiter"
+    },
+    {
+      "key": "Hunger",
+      "art": "der",
+      "plural": "—",
+      "trans": "hunger"
+    },
+    {
+      "key": "Imbiss",
+      "art": "der",
+      "plural": "Imbisse",
+      "trans": "snack"
+    },
+    {
+      "key": "Kaffee",
+      "art": "der",
+      "plural": "Kaffees",
+      "trans": "coffee"
+    },
+    {
+      "key": "Traube",
+      "art": "die",
+      "plural": "Trauben",
+      "trans": "grape"
+    },
+    {
+      "key": "Kartoffel",
+      "art": "die",
+      "plural": "Kartoffeln",
+      "trans": "potato"
+    },
+    {
+      "key": "Kasse",
+      "art": "die",
+      "plural": "Kassen",
+      "trans": "cash desk"
+    },
+    {
+      "key": "Kirsche",
+      "art": "die",
+      "plural": "Kirschen",
+      "trans": "cherry"
+    },
+    {
+      "key": "Kuchen",
+      "art": "der",
+      "plural": "Kuchen",
+      "trans": "cake"
+    },
+    {
+      "key": "Limonade",
+      "art": "die",
+      "plural": "Limonaden",
+      "trans": "lemonade"
+    },
+    {
+      "key": "Löffel",
+      "art": "der",
+      "plural": "Löffel",
+      "trans": "spoon"
+    },
+    {
+      "key": "Tagesgericht",
+      "art": "das",
+      "plural": "Tagesgerichte",
+      "trans": "set meal"
+    },
+    {
+      "key": "Messer",
+      "art": "das",
+      "plural": "Messer",
+      "trans": "knife"
+    },
+    {
+      "key": "Milch",
+      "art": "die",
+      "plural": "—",
+      "trans": "milk"
+    },
+    {
+      "key": "Mineralwasser",
+      "art": "das",
+      "plural": "Mineralwasser",
+      "trans": "mineral water"
+    },
+    {
+      "key": "Nachtisch",
+      "art": "der",
+      "plural": "Nachtische",
+      "trans": "dessert"
+    },
+    {
+      "key": "Orangensaft",
+      "art": "der",
+      "plural": "Orangensäfte",
+      "trans": "orange juice"
+    },
+    {
+      "key": "Pfeffer",
+      "art": "der",
+      "plural": "—",
+      "trans": "pepper"
+    },
+    {
+      "key": "Pommes",
+      "art": "die",
+      "plural": "Pommes",
+      "trans": "fries"
+    },
+    {
+      "key": "Portion",
+      "art": "die",
+      "plural": "Portionen",
+      "trans": "portion"
+    },
+    {
+      "key": "Kostprobe",
+      "art": "die",
+      "plural": "Kostproben",
+      "trans": "taste"
+    },
+    {
+      "key": "Reis",
+      "art": "der",
+      "plural": "Reissorten",
+      "trans": "rice"
+    },
+    {
+      "key": "Rundreise",
+      "art": "die",
+      "plural": "Rundreisen",
+      "trans": "round trip"
+    },
+    {
+      "key": "Saft",
+      "art": "der",
+      "plural": "Säfte",
+      "trans": "juice"
+    },
+    {
+      "key": "Sahne",
+      "art": "die",
+      "plural": "—",
+      "trans": "cream"
+    },
+    {
+      "key": "Salat",
+      "art": "der",
+      "plural": "Salate",
+      "trans": "salad"
+    },
+    {
+      "key": "Salz",
+      "art": "das",
+      "plural": "Salze",
+      "trans": "salt"
+    },
+    {
+      "key": "Schokolade",
+      "art": "die",
+      "plural": "Schokoladen",
+      "trans": "chocolate"
+    },
+    {
+      "key": "Senf",
+      "art": "der",
+      "plural": "—",
+      "trans": "mustard"
+    },
+    {
+      "key": "Serviette",
+      "art": "die",
+      "plural": "Servietten",
+      "trans": "serviette"
+    },
+    {
+      "key": "Spiegelei",
+      "art": "das",
+      "plural": "Spiegeleier",
+      "trans": "fried egg"
+    },
+    {
+      "key": "Selterswasser",
+      "art": "das",
+      "plural": "—",
+      "trans": "sparkling water"
+    },
+    {
+      "key": "Suppe",
+      "art": "die",
+      "plural": "Suppen",
+      "trans": "soup"
+    },
+    {
+      "key": "Tasse",
+      "art": "die",
+      "plural": "Tassen",
+      "trans": "cup"
+    },
+    {
+      "key": "Becher",
+      "art": "der",
+      "plural": "Becher",
+      "trans": "cup"
+    },
+    {
+      "key": "Tee",
+      "art": "der",
+      "plural": "Tees",
+      "trans": "tea"
+    },
+    {
+      "key": "Platte",
+      "art": "die",
+      "plural": "Platten",
+      "trans": "plate"
+    },
+    {
+      "key": "Kuchen",
+      "art": "der",
+      "plural": "Kuchen",
+      "trans": "cake"
+    },
+    {
+      "key": "Torte",
+      "art": "die",
+      "plural": "Torten",
+      "trans": "cake"
+    },
+    {
+      "key": "Wein",
+      "art": "der",
+      "plural": "Weine",
+      "trans": "wine"
+    },
+    {
+      "key": "Zucker",
+      "art": "der",
+      "plural": "Zucker",
+      "trans": "sugar"
+    },
+    {
+      "key": "Ananas",
+      "art": "die",
+      "plural": "Ananas",
+      "trans": "pineapple"
+    },
+    {
+      "key": "Apfel",
+      "art": "der",
+      "plural": "Äpfel",
+      "trans": "apple"
+    },
+    {
+      "key": "Appetit",
+      "art": "der",
+      "plural": "Appetite",
+      "trans": "appetite"
+    },
+    {
+      "key": "Aprikose",
+      "art": "die",
+      "plural": "Aprikosen",
+      "trans": "apricot"
+    },
+    {
+      "key": "Banane",
+      "art": "die",
+      "plural": "Bananen",
+      "trans": "banana"
+    },
+    {
+      "key": "Steak",
+      "art": "das",
+      "plural": "Steaks",
+      "trans": "steak"
+    },
+    {
+      "key": "Bier",
+      "art": "das",
+      "plural": "Biere",
+      "trans": "beer"
+    },
+    {
+      "key": "Birne",
+      "art": "die",
+      "plural": "Birnen",
+      "trans": "pear"
+    },
+    {
+      "key": "Blumenkohl",
+      "art": "der",
+      "plural": "Blumenkohle",
+      "trans": "cauliflower"
+    },
+    {
+      "key": "Bohne",
+      "art": "die",
+      "plural": "Bohnen",
+      "trans": "bean"
+    },
+    {
+      "key": "Duft",
+      "art": "der",
+      "plural": "Düfte",
+      "trans": "scent"
+    },
+    {
+      "key": "Fett",
+      "art": "das",
+      "plural": "Fette",
+      "trans": "fat"
+    },
+    {
+      "key": "Passform",
+      "art": "die",
+      "plural": "Passformen",
+      "trans": "fit"
+    },
+    {
+      "key": "Gemüse",
+      "art": "das",
+      "plural": "Gemüse",
+      "trans": "vegetable"
+    },
+    {
+      "key": "Hamburger",
+      "art": "der",
+      "plural": "Hamburger",
+      "trans": "hamburger"
+    },
+    {
+      "key": "Hauptspeise",
+      "art": "die",
+      "plural": "Hauptspeisen",
+      "trans": "main dish"
+    },
+    {
+      "key": "Kalbfleisch",
+      "art": "das",
+      "plural": "—",
+      "trans": "veal"
+    },
+    {
+      "key": "Mohrrübe",
+      "art": "die",
+      "plural": "Mohrrüben",
+      "trans": "carrot"
+    },
+    {
+      "key": "Käse",
+      "art": "der",
+      "plural": "Käsesorten",
+      "trans": "cheese"
+    },
+    {
+      "key": "Kohl",
+      "art": "der",
+      "plural": "Kohle",
+      "trans": "cabbage"
+    },
+    {
+      "key": "Lebensmittel",
+      "art": "das",
+      "plural": "Lebensmittel",
+      "trans": "food"
+    },
+    {
+      "key": "Meeresfrüchte",
+      "art": "die",
+      "plural": "Meeresfrüchte",
+      "trans": "seafood"
+    },
+    {
+      "key": "Öl",
+      "art": "das",
+      "plural": "Öle",
+      "trans": "oil"
+    },
+    {
+      "key": "Omelett",
+      "art": "das",
+      "plural": "Omeletts",
+      "trans": "omelette"
+    },
+    {
+      "key": "Pfirsich",
+      "art": "der",
+      "plural": "Pfirsiche",
+      "trans": "peach"
+    },
+    {
+      "key": "Champignon",
+      "art": "der",
+      "plural": "Champignons",
+      "trans": "mushroom"
+    },
+    {
+      "key": "Pizza",
+      "art": "die",
+      "plural": "Pizzen",
+      "trans": "pizza"
+    },
+    {
+      "key": "Rezept",
+      "art": "das",
+      "plural": "Rezepte",
+      "trans": "recipe"
+    },
+    {
+      "key": "Rindfleisch",
+      "art": "das",
+      "plural": "—",
+      "trans": "beef"
+    },
+    {
+      "key": "Haut",
+      "art": "die",
+      "plural": "Häute",
+      "trans": "skin"
+    },
+    {
+      "key": "Schüssel",
+      "art": "die",
+      "plural": "Schüsseln",
+      "trans": "bowl"
+    },
+    {
+      "key": "Schale",
+      "art": "die",
+      "plural": "Schalen",
+      "trans": "bowl"
+    },
+    {
+      "key": "Schinken",
+      "art": "der",
+      "plural": "Schinken",
+      "trans": "ham"
+    },
+    {
+      "key": "Schweinefleisch",
+      "art": "das",
+      "plural": "—",
+      "trans": "pork"
+    },
+    {
+      "key": "Spaghetti",
+      "art": "die",
+      "plural": "Spaghetti",
+      "trans": "spaghetti"
+    },
+    {
+      "key": "Spezialität",
+      "art": "die",
+      "plural": "Spezialitäten",
+      "trans": "specialty"
+    },
+    {
+      "key": "Süßigkeit",
+      "art": "die",
+      "plural": "Süßigkeiten",
+      "trans": "sweet"
+    },
+    {
+      "key": "Tomate",
+      "art": "die",
+      "plural": "Tomaten",
+      "trans": "tomato"
+    },
+    {
+      "key": "Vegetarier",
+      "art": "der",
+      "plural": "Vegetarier",
+      "trans": "vegetarian"
+    },
+    {
+      "key": "Vegetarierin",
+      "art": "die",
+      "plural": "Vegetarierinnen",
+      "trans": "vegetarian"
+    },
+    {
+      "key": "Januar",
+      "art": "der",
+      "plural": "Januare",
+      "trans": "January"
+    },
+    {
+      "key": "Februar",
+      "art": "der",
+      "plural": "Februare",
+      "trans": "February"
+    },
+    {
+      "key": "März",
+      "art": "der",
+      "plural": "Märze",
+      "trans": "March"
+    },
+    {
+      "key": "April",
+      "art": "der",
+      "plural": "Aprile",
+      "trans": "April"
+    },
+    {
+      "key": "Mai",
+      "art": "der",
+      "plural": "Maie",
+      "trans": "May"
+    },
+    {
+      "key": "Juni",
+      "art": "der",
+      "plural": "Junis",
+      "trans": "June"
+    },
+    {
+      "key": "Juli",
+      "art": "der",
+      "plural": "Julis",
+      "trans": "July"
+    },
+    {
+      "key": "August",
+      "art": "der",
+      "plural": "Augusten",
+      "trans": "August"
+    },
+    {
+      "key": "September",
+      "art": "der",
+      "plural": "September",
+      "trans": "September"
+    },
+    {
+      "key": "Oktober",
+      "art": "der",
+      "plural": "Oktobers",
+      "trans": "October"
+    },
+    {
+      "key": "November",
+      "art": "der",
+      "plural": "November",
+      "trans": "November"
+    },
+    {
+      "key": "Dezember",
+      "art": "der",
+      "plural": "Dezember",
+      "trans": "December"
+    },
+    {
+      "key": "Frühling",
+      "art": "der",
+      "plural": "Frühlinge",
+      "trans": "spring"
+    },
+    {
+      "key": "Sommer",
+      "art": "der",
+      "plural": "Sommer",
+      "trans": "summer"
+    },
+    {
+      "key": "Herbst",
+      "art": "der",
+      "plural": "Herbste",
+      "trans": "autumn"
+    },
+    {
+      "key": "Winter",
+      "art": "der",
+      "plural": "Winter",
+      "trans": "winter"
+    },
+    {
+      "key": "Fastenzeit",
+      "art": "die",
+      "plural": "Fastenzeiten",
+      "trans": "Lent"
+    },
+    {
+      "key": "Feiertag",
+      "art": "der",
+      "plural": "Feiertage",
+      "trans": "holiday"
+    },
+    {
+      "key": "Jahr",
+      "art": "das",
+      "plural": "Jahre",
+      "trans": "year"
+    },
+    {
+      "key": "Jahreszeit",
+      "art": "die",
+      "plural": "Jahreszeiten",
+      "trans": "season"
+    },
+    {
+      "key": "Monat",
+      "art": "der",
+      "plural": "Monate",
+      "trans": "month"
+    },
+    {
+      "key": "Neujahr",
+      "art": "das",
+      "plural": "Neujahre",
+      "trans": "New Year"
+    },
+    {
+      "key": "Ostern",
+      "art": "das",
+      "plural": "—",
+      "trans": "Easter"
+    },
+    {
+      "key": "Weihnachten",
+      "art": "das",
+      "plural": "—",
+      "trans": "Christmas"
+    },
+    {
+      "key": "Rücken",
+      "art": "der",
+      "plural": "Rücken",
+      "trans": "back"
+    },
+    {
+      "key": "Ohr",
+      "art": "das",
+      "plural": "Ohren",
+      "trans": "ear"
+    },
+    {
+      "key": "Nase",
+      "art": "die",
+      "plural": "Nasen",
+      "trans": "nose"
+    },
+    {
+      "key": "Mund",
+      "art": "der",
+      "plural": "Münder",
+      "trans": "mouth"
+    },
+    {
+      "key": "Körper",
+      "art": "der",
+      "plural": "Körper",
+      "trans": "body"
+    },
+    {
+      "key": "Kopf",
+      "art": "der",
+      "plural": "Köpfe",
+      "trans": "head"
+    },
+    {
+      "key": "Knie",
+      "art": "das",
+      "plural": "Knie",
+      "trans": "knee"
+    },
+    {
+      "key": "Hand",
+      "art": "die",
+      "plural": "Hände",
+      "trans": "hand"
+    },
+    {
+      "key": "Kehle",
+      "art": "die",
+      "plural": "Kehlen",
+      "trans": "throat"
+    },
+    {
+      "key": "Rachen",
+      "art": "der",
+      "plural": "Rachen",
+      "trans": "throat"
+    },
+    {
+      "key": "Fuß",
+      "art": "der",
+      "plural": "Füße",
+      "trans": "foot"
+    },
+    {
+      "key": "Finger",
+      "art": "der",
+      "plural": "Finger",
+      "trans": "finger"
+    },
+    {
+      "key": "Fieber",
+      "art": "das",
+      "plural": "—",
+      "trans": "fever"
+    },
+    {
+      "key": "Bein",
+      "art": "das",
+      "plural": "Beine",
+      "trans": "leg"
+    },
+    {
+      "key": "Magen",
+      "art": "der",
+      "plural": "Mägen",
+      "trans": "stomach"
+    },
+    {
+      "key": "Bauch",
+      "art": "der",
+      "plural": "Bäuche",
+      "trans": "stomach"
+    },
+    {
+      "key": "Auge",
+      "art": "das",
+      "plural": "Augen",
+      "trans": "eye"
+    },
+    {
+      "key": "Arm",
+      "art": "der",
+      "plural": "Arme",
+      "trans": "arm"
+    },
+    {
+      "key": "Wellensittich",
+      "art": "der",
+      "plural": "Wellensittiche",
+      "trans": "budgerigar"
+    },
+    {
+      "key": "Vogel",
+      "art": "der",
+      "plural": "Vögel",
+      "trans": "bird"
+    },
+    {
+      "key": "Tier",
+      "art": "das",
+      "plural": "Tiere",
+      "trans": "animal"
+    },
+    {
+      "key": "Pferd",
+      "art": "das",
+      "plural": "Pferde",
+      "trans": "horse"
+    },
+    {
+      "key": "Meerschweinchen",
+      "art": "das",
+      "plural": "Meerschweinchen",
+      "trans": "guinea pig"
+    },
+    {
+      "key": "Maus",
+      "art": "die",
+      "plural": "Mäuse",
+      "trans": "mouse"
+    },
+    {
+      "key": "Katze",
+      "art": "die",
+      "plural": "Katzen",
+      "trans": "cat"
+    },
+    {
+      "key": "Kaninchen",
+      "art": "das",
+      "plural": "Kaninchen",
+      "trans": "rabbit"
+    },
+    {
+      "key": "Hund",
+      "art": "der",
+      "plural": "Hunde",
+      "trans": "dog"
+    },
+    {
+      "key": "Hamster",
+      "art": "der",
+      "plural": "Hamster",
+      "trans": "hamster"
+    },
+    {
+      "key": "Schaf",
+      "art": "das",
+      "plural": "Schafe",
+      "trans": "sheep"
+    },
+    {
+      "key": "Kuh",
+      "art": "die",
+      "plural": "Kühe",
+      "trans": "cow"
+    },
+    {
+      "key": "Apfelsaft",
+      "art": "der",
+      "plural": "Apfelsäfte",
+      "trans": "apple juice"
+    },
+    {
+      "key": "Bier",
+      "art": "das",
+      "plural": "Biere",
+      "trans": "beer"
+    },
+    {
+      "key": "Cappuccino",
+      "art": "der",
+      "plural": "Cappuccinos",
+      "trans": "cappuccino"
+    },
+    {
+      "key": "Champagner",
+      "art": "der",
+      "plural": "Champagner",
+      "trans": "champagne"
+    },
+    {
+      "key": "Kaffee",
+      "art": "der",
+      "plural": "Kaffees",
+      "trans": "coffee"
+    },
+    {
+      "key": "Kakao",
+      "art": "der",
+      "plural": "Kakaos",
+      "trans": "cocoa"
+    },
+    {
+      "key": "Kirschsaft",
+      "art": "der",
+      "plural": "Kirschsäfte",
+      "trans": "cherry juice"
+    },
+    {
+      "key": "Limonade",
+      "art": "die",
+      "plural": "Limonaden",
+      "trans": "lemonade"
+    },
+    {
+      "key": "Milch",
+      "art": "die",
+      "plural": "Milch",
+      "trans": "milk"
+    },
+    {
+      "key": "Mineralwasser",
+      "art": "das",
+      "plural": "Mineralwasser",
+      "trans": "mineral water"
+    },
+    {
+      "key": "Orangensaft",
+      "art": "der",
+      "plural": "Orangensäfte",
+      "trans": "orange juice"
+    },
+    {
+      "key": "Sekt",
+      "art": "der",
+      "plural": "Sekts",
+      "trans": "sparkling wine"
+    },
+    {
+      "key": "Tomatensaft",
+      "art": "der",
+      "plural": "Tomatensäfte",
+      "trans": "tomato juice"
+    },
+    {
+      "key": "Traubensaft",
+      "art": "der",
+      "plural": "Traubensäfte",
+      "trans": "grape juice"
+    },
+    {
+      "key": "Wein",
+      "art": "der",
+      "plural": "Weine",
+      "trans": "wine"
+    },
+    {
+      "key": "Badezimmer",
+      "art": "das",
+      "plural": "Badezimmer",
+      "trans": "bathroom"
+    },
+    {
+      "key": "Dachboden",
+      "art": "der",
+      "plural": "Dachböden",
+      "trans": "garret"
+    },
+    {
+      "key": "Esszimmer",
+      "art": "das",
+      "plural": "Esszimmer",
+      "trans": "dining room"
+    },
+    {
+      "key": "Fenster",
+      "art": "das",
+      "plural": "Fenster",
+      "trans": "window"
+    },
+    {
+      "key": "Flur",
+      "art": "der",
+      "plural": "Flure",
+      "trans": "hall"
+    },
+    {
+      "key": "Gästezimmer",
+      "art": "das",
+      "plural": "Gästezimmer",
+      "trans": "guest room"
+    },
+    {
+      "key": "Keller",
+      "art": "der",
+      "plural": "Keller",
+      "trans": "cellar"
+    },
+    {
+      "key": "Kinderzimmer",
+      "art": "das",
+      "plural": "Kinderzimmer",
+      "trans": "child’s room"
+    },
+    {
+      "key": "Küche",
+      "art": "die",
+      "plural": "Küchen",
+      "trans": "kitchen"
+    },
+    {
+      "key": "Schlafzimmer",
+      "art": "das",
+      "plural": "Schlafzimmer",
+      "trans": "bedroom"
+    },
+    {
+      "key": "Tür",
+      "art": "die",
+      "plural": "Türen",
+      "trans": "door"
+    },
+    {
+      "key": "Wohnzimmer",
+      "art": "das",
+      "plural": "Wohnzimmer",
+      "trans": "living room"
+    },
+    {
+      "key": "Zimmer",
+      "art": "das",
+      "plural": "Zimmer",
+      "trans": "room"
+    },
+    {
+      "key": "Kleidung",
+      "art": "die",
+      "plural": "—",
+      "trans": "clothing, wear"
+    },
+    {
+      "key": "Stoff",
+      "art": "der",
+      "plural": "Stoffe",
+      "trans": "fabric, material"
+    },
+    {
+      "key": "Mode",
+      "art": "die",
+      "plural": "Moden",
+      "trans": "fashion"
+    },
+    {
+      "key": "Hut",
+      "art": "der",
+      "plural": "Hüte",
+      "trans": "hat"
+    },
+    {
+      "key": "Mütze",
+      "art": "die",
+      "plural": "Mützen",
+      "trans": "cap"
+    },
+    {
+      "key": "Halstuch",
+      "art": "das",
+      "plural": "Halstücher",
+      "trans": "scarf"
+    },
+    {
+      "key": "Hemd",
+      "art": "das",
+      "plural": "Hemden",
+      "trans": "shirt"
+    },
+    {
+      "key": "Pullover",
+      "art": "der",
+      "plural": "Pullover",
+      "trans": "sweater"
+    },
+    {
+      "key": "Bluse",
+      "art": "die",
+      "plural": "Blusen",
+      "trans": "blouse"
+    },
+    {
+      "key": "Gürtel",
+      "art": "der",
+      "plural": "Gürtel",
+      "trans": "belt"
+    },
+    {
+      "key": "Hose",
+      "art": "die",
+      "plural": "Hosen",
+      "trans": "(a pair of) trousers"
+    },
+    {
+      "key": "Rock",
+      "art": "der",
+      "plural": "Röcke",
+      "trans": "skirt"
+    },
+    {
+      "key": "Anzug",
+      "art": "der",
+      "plural": "Anzüge",
+      "trans": "suit"
+    },
+    {
+      "key": "Jacke",
+      "art": "die",
+      "plural": "Jacken",
+      "trans": "jacket"
+    },
+    {
+      "key": "Mantel",
+      "art": "der",
+      "plural": "Mäntel",
+      "trans": "coat"
+    },
+    {
+      "key": "Strickjacke",
+      "art": "die",
+      "plural": "Strickjacken",
+      "trans": "cardigan"
+    },
+    {
+      "key": "Handschuh",
+      "art": "der",
+      "plural": "Handschuhe",
+      "trans": "glove"
+    },
+    {
+      "key": "Handschuhe",
+      "art": "die",
+      "plural": "Handschuhe",
+      "trans": "gloves"
+    },
+    {
+      "key": "Krawatte",
+      "art": "die",
+      "plural": "Krawatten",
+      "trans": "tie"
+    },
+    {
+      "key": "Strumpf",
+      "art": "der",
+      "plural": "Strümpfe",
+      "trans": "stocking"
+    },
+    {
+      "key": "Schuh",
+      "art": "der",
+      "plural": "Schuhe",
+      "trans": "shoe"
+    },
+    {
+      "key": "Stiefel",
+      "art": "der",
+      "plural": "Stiefel",
+      "trans": "(high) boot"
+    },
+    {
+      "key": "Familie",
+      "art": "die",
+      "plural": "Familien",
+      "trans": "family"
+    },
+    {
+      "key": "Baby",
+      "art": "das",
+      "plural": "Babys",
+      "trans": "baby"
+    },
+    {
+      "key": "Bruder",
+      "art": "der",
+      "plural": "Brüder",
+      "trans": "brother"
+    },
+    {
+      "key": "Cousin",
+      "art": "der",
+      "plural": "Cousins",
+      "trans": "cousin"
+    },
+    {
+      "key": "Kind",
+      "art": "das",
+      "plural": "Kinder",
+      "trans": "child"
+    },
+    {
+      "key": "Eltern",
+      "art": "die",
+      "plural": "Eltern",
+      "trans": "parents"
+    },
+    {
+      "key": "Erwachsener",
+      "art": "der",
+      "plural": "Erwachsene",
+      "trans": "adult"
+    },
+    {
+      "key": "Opa",
+      "art": "der",
+      "plural": "Opas",
+      "trans": "grandpa/granddad"
+    },
+    {
+      "key": "Nachname",
+      "art": "der",
+      "plural": "Nachnamen",
+      "trans": "surname"
+    },
+    {
+      "key": "Freund",
+      "art": "der",
+      "plural": "Freunde",
+      "trans": "friend"
+    },
+    {
+      "key": "Freundschaft",
+      "art": "die",
+      "plural": "Freundschaften",
+      "trans": "friendship"
+    },
+    {
+      "key": "Gast",
+      "art": "der",
+      "plural": "Gäste",
+      "trans": "guest"
+    },
+    {
+      "key": "Gastfreundschaft",
+      "art": "die",
+      "plural": "—",
+      "trans": "hospitality"
+    },
+    {
+      "key": "Geburt",
+      "art": "die",
+      "plural": "Geburten",
+      "trans": "birth"
+    },
+    {
+      "key": "Geburtstag",
+      "art": "der",
+      "plural": "Geburtstage",
+      "trans": "birthday"
+    },
+    {
+      "key": "Onkel",
+      "art": "der",
+      "plural": "Onkel",
+      "trans": "uncle"
+    },
+    {
+      "key": "Bruderschaft",
+      "art": "die",
+      "plural": "Bruderschaften",
+      "trans": "brotherhood"
+    },
+    {
+      "key": "Schwester",
+      "art": "die",
+      "plural": "Schwestern",
+      "trans": "sister"
+    },
+    {
+      "key": "Großeltern",
+      "art": "die",
+      "plural": "—",
+      "trans": "grandparents"
+    },
+    {
+      "key": "Großmutter",
+      "art": "die",
+      "plural": "Großmütter",
+      "trans": "grandmother"
+    },
+    {
+      "key": "Großvater",
+      "art": "der",
+      "plural": "Großväter",
+      "trans": "grandfather"
+    },
+    {
+      "key": "Hausnummer",
+      "art": "die",
+      "plural": "Hausnummern",
+      "trans": "house number"
+    },
+    {
+      "key": "Junge",
+      "art": "der",
+      "plural": "Jungen",
+      "trans": "boy"
+    },
+    {
+      "key": "Mädchen",
+      "art": "das",
+      "plural": "Mädchen",
+      "trans": "girl"
+    },
+    {
+      "key": "Mann",
+      "art": "der",
+      "plural": "Männer",
+      "trans": "man"
+    },
+    {
+      "key": "Mutter",
+      "art": "die",
+      "plural": "Mütter",
+      "trans": "mother"
+    },
+    {
+      "key": "Name",
+      "art": "der",
+      "plural": "Namen",
+      "trans": "name"
+    },
+    {
+      "key": "Oma",
+      "art": "die",
+      "plural": "Omas",
+      "trans": "granny"
+    },
+    {
+      "key": "Tochter",
+      "art": "die",
+      "plural": "Töchter",
+      "trans": "daughter"
+    },
+    {
+      "key": "Schwager",
+      "art": "der",
+      "plural": "Schwäger",
+      "trans": "brother-in-law"
+    },
+    {
+      "key": "Schwägerin",
+      "art": "die",
+      "plural": "Schwägerinnen",
+      "trans": "sister-in-law"
+    },
+    {
+      "key": "Schwiegermutter",
+      "art": "die",
+      "plural": "Schwiegermütter",
+      "trans": "mother-in-law"
+    },
+    {
+      "key": "Schwiegervater",
+      "art": "der",
+      "plural": "Schwiegerväter",
+      "trans": "father-in-law"
+    },
+    {
+      "key": "Sohn",
+      "art": "der",
+      "plural": "Söhne",
+      "trans": "son"
+    },
+    {
+      "key": "Stiefvater",
+      "art": "der",
+      "plural": "Stiefväter",
+      "trans": "stepfather"
+    },
+    {
+      "key": "Stiefmutter",
+      "art": "die",
+      "plural": "Stiefmütter",
+      "trans": "stepmother"
+    },
+    {
+      "key": "Tante",
+      "art": "die",
+      "plural": "Tanten",
+      "trans": "aunt"
+    },
+    {
+      "key": "Wohnort",
+      "art": "der",
+      "plural": "Wohnorte",
+      "trans": "place of residence"
+    },
+    {
+      "key": "Vater",
+      "art": "der",
+      "plural": "Väter",
+      "trans": "father"
+    },
+    {
+      "key": "Papa",
+      "art": "der",
+      "plural": "Papas",
+      "trans": "dad"
+    },
+    {
+      "key": "Vati",
+      "art": "der",
+      "plural": "Vatis",
+      "trans": "dad"
+    },
+    {
+      "key": "Vorname",
+      "art": "der",
+      "plural": "Vornamen",
+      "trans": "first name"
+    },
+    {
+      "key": "Zwilling",
+      "art": "der",
+      "plural": "Zwillinge",
+      "trans": "twin"
+    },
+    {
+      "key": "Federball",
+      "art": "der",
+      "plural": "Federbälle",
+      "trans": "badminton"
+    },
+    {
+      "key": "Badminton",
+      "art": "das",
+      "plural": "—",
+      "trans": "badminton"
+    },
+    {
+      "key": "Basketball",
+      "art": "der",
+      "plural": "Basketbälle",
+      "trans": "basketball"
+    },
+    {
+      "key": "Besuch",
+      "art": "der",
+      "plural": "Besuche",
+      "trans": "visit"
+    },
+    {
+      "key": "Briefmarke",
+      "art": "die",
+      "plural": "Briefmarken",
+      "trans": "stamp"
+    },
+    {
+      "key": "Buch",
+      "art": "das",
+      "plural": "Bücher",
+      "trans": "book"
+    },
+    {
+      "key": "CD-Spieler",
+      "art": "der",
+      "plural": "CD-Spieler",
+      "trans": "CD player"
+    },
+    {
+      "key": "Computer",
+      "art": "der",
+      "plural": "Computer",
+      "trans": "computer"
+    },
+    {
+      "key": "Disco",
+      "art": "die",
+      "plural": "Discos",
+      "trans": "disco"
+    },
+    {
+      "key": "Finale",
+      "art": "das",
+      "plural": "Finale",
+      "trans": "final"
+    },
+    {
+      "key": "Fan",
+      "art": "der",
+      "plural": "Fans",
+      "trans": "fan"
+    },
+    {
+      "key": "Fitness",
+      "art": "die",
+      "plural": "—",
+      "trans": "fitness"
+    },
+    {
+      "key": "Foto",
+      "art": "das",
+      "plural": "Fotos",
+      "trans": "photo"
+    },
+    {
+      "key": "Fotoapparat",
+      "art": "der",
+      "plural": "Fotoapparate",
+      "trans": "camera"
+    },
+    {
+      "key": "Freundin",
+      "art": "die",
+      "plural": "Freundinnen",
+      "trans": "girlfriend"
+    },
+    {
+      "key": "Fußball",
+      "art": "der",
+      "plural": "Fußbälle",
+      "trans": "football"
+    },
+    {
+      "key": "Gruppe",
+      "art": "die",
+      "plural": "Gruppen",
+      "trans": "group"
+    },
+    {
+      "key": "Bewegung",
+      "art": "die",
+      "plural": "Bewegungen",
+      "trans": "movement"
+    },
+    {
+      "key": "Hallenbad",
+      "art": "das",
+      "plural": "Hallenbäder",
+      "trans": "indoor swimming pool"
+    },
+    {
+      "key": "Hobby",
+      "art": "das",
+      "plural": "Hobbys",
+      "trans": "hobby"
+    },
+    {
+      "key": "Hockey",
+      "art": "das",
+      "plural": "—",
+      "trans": "hockey"
+    },
+    {
+      "key": "Instrument",
+      "art": "das",
+      "plural": "Instrumente",
+      "trans": "instrument"
+    },
+    {
+      "key": "Werkzeug",
+      "art": "das",
+      "plural": "Werkzeuge",
+      "trans": "tool"
+    },
+    {
+      "key": "Jugendklub",
+      "art": "der",
+      "plural": "Jugendklubs",
+      "trans": "youth club"
+    },
+    {
+      "key": "Karte",
+      "art": "die",
+      "plural": "Karten",
+      "trans": "card"
+    },
+    {
+      "key": "Kassette",
+      "art": "die",
+      "plural": "Kassetten",
+      "trans": "cassette"
+    },
+    {
+      "key": "Kino",
+      "art": "das",
+      "plural": "Kinos",
+      "trans": "cinema"
+    },
+    {
+      "key": "Klavier",
+      "art": "das",
+      "plural": "Klaviere",
+      "trans": "piano"
+    },
+    {
+      "key": "Mannschaft",
+      "art": "die",
+      "plural": "Mannschaften",
+      "trans": "team"
+    },
+    {
+      "key": "Mitglied",
+      "art": "das",
+      "plural": "Mitglieder",
+      "trans": "member"
+    },
+    {
+      "key": "Musik",
+      "art": "die",
+      "plural": "—",
+      "trans": "music"
+    },
+    {
+      "key": "Park",
+      "art": "der",
+      "plural": "Parks",
+      "trans": "park"
+    },
+    {
+      "key": "Rollschuh",
+      "art": "der",
+      "plural": "Rollschuhe",
+      "trans": "roller skate"
+    },
+    {
+      "key": "Rugby",
+      "art": "das",
+      "plural": "—",
+      "trans": "rugby"
+    },
+    {
+      "key": "Schwimmbad",
+      "art": "das",
+      "plural": "Schwimmbäder",
+      "trans": "swimming pool"
+    },
+    {
+      "key": "Spiel",
+      "art": "das",
+      "plural": "Spiele",
+      "trans": "game"
+    },
+    {
+      "key": "Spielplatz",
+      "art": "der",
+      "plural": "Spielplätze",
+      "trans": "playground"
+    },
+    {
+      "key": "Sport",
+      "art": "der",
+      "plural": "Sportarten",
+      "trans": "sport"
+    },
+    {
+      "key": "Stadion",
+      "art": "das",
+      "plural": "Stadien",
+      "trans": "stadium"
+    },
+    {
+      "key": "Stadt",
+      "art": "die",
+      "plural": "Städte",
+      "trans": "town"
+    },
+    {
+      "key": "Tennis",
+      "art": "das",
+      "plural": "—",
+      "trans": "tennis"
+    },
+    {
+      "key": "Theater",
+      "art": "das",
+      "plural": "Theater",
+      "trans": "theatre"
+    },
+    {
+      "key": "Tischtennis",
+      "art": "das",
+      "plural": "—",
+      "trans": "table tennis"
+    },
+    {
+      "key": "Verein",
+      "art": "der",
+      "plural": "Vereine",
+      "trans": "club"
+    },
+    {
+      "key": "Videospiel",
+      "art": "das",
+      "plural": "Videospiele",
+      "trans": "video game"
+    },
+    {
+      "key": "Wettbewerb",
+      "art": "der",
+      "plural": "Wettbewerbe",
+      "trans": "competition"
+    },
+    {
+      "key": "Wochenende",
+      "art": "das",
+      "plural": "Wochenenden",
+      "trans": "weekend"
+    },
+    {
+      "key": "Zeitschrift",
+      "art": "die",
+      "plural": "Zeitschriften",
+      "trans": "magazine"
+    },
+    {
+      "key": "Abenteuer",
+      "art": "das",
+      "plural": "Abenteuer",
+      "trans": "adventure"
+    },
+    {
+      "key": "Anzeige",
+      "art": "die",
+      "plural": "Anzeigen",
+      "trans": "advertisement"
+    },
+    {
+      "key": "Ausflug",
+      "art": "der",
+      "plural": "Ausflüge",
+      "trans": "trip"
+    },
+    {
+      "key": "Ausweis",
+      "art": "der",
+      "plural": "Ausweise",
+      "trans": "identity card"
+    },
+    {
+      "key": "Dokumentarfilm",
+      "art": "der",
+      "plural": "Dokumentarfilme",
+      "trans": "documentary"
+    },
+    {
+      "key": "Eingang",
+      "art": "der",
+      "plural": "Eingänge",
+      "trans": "entrance"
+    },
+    {
+      "key": "Auftritt",
+      "art": "der",
+      "plural": "Auftritte",
+      "trans": "performance"
+    },
+    {
+      "key": "Eintrittsgeld",
+      "art": "das",
+      "plural": "Eintrittsgelder",
+      "trans": "entrance fee"
+    },
+    {
+      "key": "Film",
+      "art": "der",
+      "plural": "Filme",
+      "trans": "film"
+    },
+    {
+      "key": "Freizeit",
+      "art": "die",
+      "plural": "—",
+      "trans": "leisure"
+    },
+    {
+      "key": "Vernunft",
+      "art": "die",
+      "plural": "—",
+      "trans": "reason"
+    },
+    {
+      "key": "Horrorfilm",
+      "art": "der",
+      "plural": "Horrorfilme",
+      "trans": "horror movie"
+    },
+    {
+      "key": "Auskunft",
+      "art": "die",
+      "plural": "Auskünfte",
+      "trans": "information desk"
+    },
+    {
+      "key": "Informationsschalter",
+      "art": "der",
+      "plural": "Informationsschalter",
+      "trans": "information desk"
+    },
+    {
+      "key": "Komödie",
+      "art": "die",
+      "plural": "Komödien",
+      "trans": "comedy"
+    },
+    {
+      "key": "Konzert",
+      "art": "das",
+      "plural": "Konzerte",
+      "trans": "concert"
+    },
+    {
+      "key": "Krimi",
+      "art": "der",
+      "plural": "Krimis",
+      "trans": "crime film"
+    },
+    {
+      "key": "Liebesgeschichte",
+      "art": "die",
+      "plural": "Liebesgeschichten",
+      "trans": "romance"
+    },
+    {
+      "key": "Lied",
+      "art": "das",
+      "plural": "Lieder",
+      "trans": "song"
+    },
+    {
+      "key": "Liste",
+      "art": "die",
+      "plural": "Listen",
+      "trans": "list"
+    },
+    {
+      "key": "Nachrichten",
+      "art": "die",
+      "plural": "—",
+      "trans": "news"
+    },
+    {
+      "key": "Nachricht",
+      "art": "die",
+      "plural": "Nachrichten",
+      "trans": "news"
+    },
+    {
+      "key": "Belgier",
+      "art": "der",
+      "plural": "Belgier",
+      "trans": "Belgian"
+    },
+    {
+      "key": "Engländer",
+      "art": "der",
+      "plural": "Engländer",
+      "trans": "English man"
+    },
+    {
+      "key": "Engländerin",
+      "art": "die",
+      "plural": "Engländerinnen",
+      "trans": "English woman"
+    },
+    {
+      "key": "Franzose",
+      "art": "der",
+      "plural": "Franzosen",
+      "trans": "French man"
+    },
+    {
+      "key": "Französin",
+      "art": "die",
+      "plural": "Französinnen",
+      "trans": "French woman"
+    },
+    {
+      "key": "Holländer",
+      "art": "der",
+      "plural": "Holländer",
+      "trans": "Dutch man"
+    },
+    {
+      "key": "Holländerin",
+      "art": "die",
+      "plural": "Holländerinnen",
+      "trans": "Dutch woman"
+    },
+    {
+      "key": "Ire",
+      "art": "der",
+      "plural": "Iren",
+      "trans": "Irish man"
+    },
+    {
+      "key": "Irin",
+      "art": "die",
+      "plural": "Irinnen",
+      "trans": "Irish woman"
+    },
+    {
+      "key": "Belgien",
+      "art": "das",
+      "plural": "—",
+      "trans": "Belgium"
+    },
+    {
+      "key": "England",
+      "art": "das",
+      "plural": "—",
+      "trans": "England"
+    },
+    {
+      "key": "Frankreich",
+      "art": "das",
+      "plural": "—",
+      "trans": "France"
+    },
+    {
+      "key": "Griechenland",
+      "art": "das",
+      "plural": "—",
+      "trans": "Greece"
+    },
+    {
+      "key": "Niederlande",
+      "art": "die",
+      "plural": "—",
+      "trans": "the Netherlands"
+    },
+    {
+      "key": "Österreich",
+      "art": "das",
+      "plural": "—",
+      "trans": "Austria"
+    },
+    {
+      "key": "Portugal",
+      "art": "das",
+      "plural": "—",
+      "trans": "Portugal"
+    },
+    {
+      "key": "Schottland",
+      "art": "das",
+      "plural": "—",
+      "trans": "Scotland"
+    },
+    {
+      "key": "Schweiz",
+      "art": "die",
+      "plural": "—",
+      "trans": "Switzerland"
+    },
+    {
+      "key": "Spanien",
+      "art": "das",
+      "plural": "—",
+      "trans": "Spain"
+    },
+    {
+      "key": "Türkei",
+      "art": "die",
+      "plural": "—",
+      "trans": "Turkey"
+    },
+    {
+      "key": "Artikel",
+      "art": "der",
+      "plural": "Artikel",
+      "trans": "article"
+    }
+  ]
+}
